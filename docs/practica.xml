@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Declaracion de RSS -->
+<rss version="2.0">
+   <!-- Declaracion del canal -->
+   <channel>
+      <!-- Titulo del Canal -->
+      <title>Física teórica</title>
+      <!-- Descripcion del Canal -->
+      <description>Explicación de conceptos de física teórica diariamente</description>
+      <!-- Enlace al sitio del Feed RSS -->
+      <link>https://congenial-potato-0f566b37.pages.github.io</link>
+      <!-- Elementos de feed, estos se muestran en los lectores de RSS  en el orden que esten aquí de arriba hacia abajo -->
+      <webMaster>a22pavapa@iesgrancapitan.org (Pablo Valencia)</webMaster>
+      <language>es-ES</language>
+      <image>
+         <url>https://congenial-potato-0f566b37.pages.github.io/portada.jpg</url>
+         <title>Física teórica</title>
+         <link>https://congenial-potato-0f566b37.pages.github.io</link>
+      </image>
+      <skipHours>
+         <hour>0</hour>
+         <hour>1</hour>
+         <hour>2</hour>
+         <hour>3</hour>
+         <hour>4</hour>
+         <hour>5</hour>
+         </skipHours>
+         <skipDays>
+         <day>Saturday</day>
+         <day>Sunday</day>
+         </skipDays>
+      <!-- Elemento individual del Fedd -->
+      <item>
+         <!-- Titulo del elemento del feed -->
+         <title>Colisión de neutrinos y sus consecuencias</title>
+         <!-- Descripcion de la actualizacion del sitio que este elemento representa, puede contener cuanto texto e imagenes necesite-->
+         <description>Descripción detallada de las interacciones más básicas de los neutrinos</description>
+         <!-- Enlace a la seccion del sitio-->
+         <guid>https://congenial-potato-0f566b37.pages.github.io/neutrinos/</guid>
+         <!-- Fecha de publicación -->
+         <pubDate>Mon, 30 Jan 2023 23:40:00 EST</pubDate>
+         <!-- Autor de la publicación -->
+         <author>a22pavapa@iesgrancapitan.org (Pablo Valencia)</author>
+         <enclosure url="https://congenial-potato-0f566b37.pages.github.io/portada.png" length="100" type="image/png"/>
+      </item>
+      <item>
+         <title>El Higgs, diez años después</title>
+         <description>A principios de mes se cumplieron diez años del descubrimiento del bosón de Higgs, pero muchas de sus propiedades siguen siendo un misterio. ¿Qué sabemos e ignoramos sobre esta famosa partícula?</description>
+         <guid>https://congenial-potato-0f566b37.pages.github.io/higgs/</guid>
+         <pubDate>Mon, 30 Jan 2023 23:00:00 EST</pubDate>
+         <author>a22pavapa@iesgrancapitan.org (Pablo Valencia)</author>
+         <enclosure url="https://congenial-potato-0f566b37.pages.github.io/portada.png" length="100" type="image/png"/>
+      </item>
+      <item>
+         <title>Proponen buscar la materia oscura en los vacíos cósmicos</title>
+         <description>Las vastas extensiones de espacio casi vacío podrían ofrecer mejores oportunidades para detectar la sustancia invisible que parece constituir más del 80 por ciento de la materia del universo.</description>
+         <guid>https://congenial-potato-0f566b37.pages.github.io/materia-oscura/</guid>
+         <pubDate>Mon, 30 Jan 2023 15:00:00 EST</pubDate>
+         <author>a22pavapa@iesgrancapitan.org (Pablo Valencia)</author>
+         <enclosure url="https://congenial-potato-0f566b37.pages.github.io/portada.png" length="100" type="image/png"/>
+      </item>
+      <item>
+         <title>Una discrepancia inesperada en la masa del bosón W</title>
+         <description>Un reciente análisis indica que este bosón es más pesado de lo que se pensaba, lo que tendría importantes repercusiones para la física de partículas.</description>
+         <guid>https://congenial-potato-0f566b37.pages.github.io/boson-w/</guid>
+         <pubDate>Fri, 27 Jan 2023 15:00:00 EST</pubDate>
+         <author>a22pavapa@iesgrancapitan.org (Pablo Valencia)</author>
+         <enclosure url="https://congenial-potato-0f566b37.pages.github.io/portada.png" length="100" type="image/png"/>
+      </item>
+      <item>
+         <title>La masa del neutrino, cada vez más acotada</title>
+         <description>El experimento KATRIN impone una nueva cota superior sobre la masa de la escurridiza partícula, cuyo valor es importante para la física de partículas y la cosmología.</description>
+         <guid>https://congenial-potato-0f566b37.pages.github.io/masa-neutrino/</guid>
+         <pubDate>Thu, 26 Jan 2023 14:00:00 EST</pubDate>
+         <author>a22pavapa@iesgrancapitan.org (Pablo Valencia)</author>
+         <enclosure url="https://congenial-potato-0f566b37.pages.github.io/portada.png" length="100" type="image/png"/>
+      </item>
+   </channel>
+</rss>
