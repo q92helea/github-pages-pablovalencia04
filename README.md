@@ -1,1 +1,3 @@
 Enlace --> https://congenial-potato-0f566b37.pages.github.io/
+No sería correcto así. Todas las direcciones empiezan por https://iesgrancapitan-llmm/.........
+https://iesgrancapitan-llmm/github-pages-pablovalencia04/
